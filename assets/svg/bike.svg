@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg height="48px"
+    id="Layer_1" style="enable-background:new 0 0 48 48;" version="1.1" viewBox="0 0 48 48" width="48px"
+    xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="white">
+    <circle cx="10.352" cy="31.607" r="7" style="fill:none;stroke:#231F20;stroke-miterlimit:10;" />
+    <circle cx="32.977" cy="26.545" r="12.375" style="fill:none;stroke:#231F20;stroke-miterlimit:10;" />
+    <circle cx="10.164" cy="31.732" r="0.875" style="fill:none;stroke:#231F20;stroke-miterlimit:10;" />
+    <circle cx="32.914" cy="26.92" r="0.875" style="fill:none;stroke:#231F20;stroke-miterlimit:10;" />
+    <line style="fill:none;stroke:#231F20;stroke-miterlimit:10;" x1="32.977" x2="32.977" y1="26.545" y2="10.482" />
+    <path d="M32.727,12.17c0,0-21.688-0.438-22.562,17.688" style="fill:none;stroke:#231F20;stroke-miterlimit:10;" />
+    <path d="M33.164,8.42c0,0,5.094,0.219,1.688,3.625" style="fill:none;stroke:#231F20;stroke-miterlimit:10;" />
+    <line style="fill:none;stroke:#231F20;stroke-miterlimit:10;" x1="32.977" x2="32.977" y1="11.295" y2="7.92" />
+    <line style="fill:none;stroke:#231F20;stroke-miterlimit:10;" x1="10.165" x2="10.165" y1="29.649" y2="31.482" />
+    <line style="fill:none;stroke:#231F20;stroke-miterlimit:10;" x1="25.727" x2="25.727" y1="12.795" y2="11.232" />
+    <path
+        d="M27.383,10.592c0,0.354-0.287,0.641-0.641,0.641h-3.031c-0.354,0-0.641-0.286-0.641-0.641l0,0  c0-0.354,0.287-0.641,0.641-0.641h3.031C27.096,9.951,27.383,10.238,27.383,10.592L27.383,10.592z"
+        style="fill:#231F20;" />
+    <path
+        d="M23.18,23.488l0.883-0.025c0.627-3.073,3.123-5.484,6.283-5.965l-0.027-0.91  C26.682,17.109,23.819,19.928,23.18,23.488z"
+        style="fill:#231F20;" />
+    <path
+        d="M5.105,30.141l0.48-0.016c0.341-1.672,1.7-2.984,3.421-3.246l-0.016-0.495  C7.012,26.668,5.453,28.201,5.105,30.141z"
+        style="fill:#231F20;" />
+    <path d="M26.368,12.884c0,0-7.062,2.491-7.404,6.95" style="fill:none;stroke:#231F20;stroke-miterlimit:10;" /></svg>
